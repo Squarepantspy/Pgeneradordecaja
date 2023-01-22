@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.contenedorcolores{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap:20px;
+}
